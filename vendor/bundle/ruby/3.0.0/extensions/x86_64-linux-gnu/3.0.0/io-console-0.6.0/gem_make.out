@@ -1,0 +1,23 @@
+current directory: /home/little/Pictures/github-code/loan-backend/cash-advance-api/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+/usr/bin/ruby3.0 -I /usr/local/lib/site_ruby/3.0.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /home/little/Pictures/github-code/loan-backend/cash-advance-api/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230325-228282-uepblu sitelibdir\=./.gem.20230325-228282-uepblu clean
+
+current directory: /home/little/Pictures/github-code/loan-backend/cash-advance-api/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230325-228282-uepblu sitelibdir\=./.gem.20230325-228282-uepblu
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /home/little/Pictures/github-code/loan-backend/cash-advance-api/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230325-228282-uepblu sitelibdir\=./.gem.20230325-228282-uepblu install
+/usr/bin/install -c -m 0755 console.so ./.gem.20230325-228282-uepblu/io
+
+current directory: /home/little/Pictures/github-code/loan-backend/cash-advance-api/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230325-228282-uepblu sitelibdir\=./.gem.20230325-228282-uepblu clean
